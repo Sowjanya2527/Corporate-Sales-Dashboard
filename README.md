@@ -88,7 +88,7 @@ Interactive filters:
 
 ## 🖼 Dashboard Snapshot
 
-![Dashboard screenshot](Screenshot(75).png)
+![Dashboard screenshot](Screenshot (75).png)
 
 ---
 
